@@ -26,25 +26,11 @@ My focus is on:
 
 <p align="center">
   <!-- Core Dev -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+ <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/> 
   <!-- Blockchain / AI / Automation -->
-  <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=032" height="40" alt="Solana" />
-  <img src="https://raw.githubusercontent.com/ethereum/web3.js/1.x/logo/web3js.jpg" height="40" alt="Web3.js" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="40" alt="Botpress" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Google_Gemini_logo.svg/2048px-Google_Gemini_logo.svg.png" height="40" alt="Gemini AI" />
-
+  <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=032" height="40" alt="Solana" /> <img src="https://raw.githubusercontent.com/ethereum/web3.js/1.x/logo/web3js.jpg" height="40" alt="Web3.js" /> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="40" alt="Botpress" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Google_Gemini_logo.svg/2048px-Google_Gemini_logo.svg.png" height="40" alt="Gemini AI" /> 
 </p>
 
 ## 🔥 Active Projects
