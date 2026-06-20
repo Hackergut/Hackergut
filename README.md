@@ -1,31 +1,26 @@
-# NodeCanvas Pro
 
-NodeCanvas Pro is a dark-mode workflow builder inspired by Runway UI and ComfyUI node logic.
+# Hey, I'm Hackergut 👋
 
-## Features
+## 🔐 About Me
+I'm a security enthusiast with a passion for ethical hacking and cybersecurity. 
+AI fanatic exploring how machine learning can solve real-world problems.
+Web designer focused on creating stunning brand identities and user experiences.
 
-- Infinite canvas with pan/zoom (10%–400%)
-- Drag-and-drop node library (Input, Generation, Output)
-- Animated Bezier connections with neon accents
-- Contextual properties panel for selected nodes
-- JSON workflow export compatible with node-based execution pipelines
-- Basic connection validation (Input -> Output direct link blocked)
+## 🎯 My Interests
+- 🔒 **Cybersecurity & Ethical Hacking** - Understanding systems, finding vulnerabilities, building secure solutions
+- 🤖 **Artificial Intelligence** - Machine learning, AI applications, automation
+- 🎨 **Web Design & UX** - Creating beautiful, intuitive digital experiences
+- 💼 **Brand Identity** - Crafting compelling visual identities and brand strategies
 
-## Tech Stack
+## 🛠️ What I Work With
+- Security Research & Penetration Testing
+- Web Design & Development
+- AI/ML Projects
+- UI/UX Design
+- Brand Strategy & Visual Identity
 
-- React + TypeScript + Vite
-- React Flow canvas engine
-- Zustand for lightweight history snapshots
+## 🚀 Let's Connect
+Open to collaborations, learning opportunities, and discussions about security, AI, and design.
 
-## Run locally
-
-```bash
-npm install
-npm run dev
-```
-
-## Build
-
-```bash
-npm run build
-```
+---
+*Building secure, beautiful, and intelligent digital solutions* 🚀
