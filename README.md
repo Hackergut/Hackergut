@@ -40,6 +40,8 @@ Web designer focused on creating stunning brand identities and user experiences.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-4B8BBE?style=for-the-badge&logo=ollama&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### **Design & Creative Tools**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -47,10 +49,14 @@ Web designer focused on creating stunning brand identities and user experiences.
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Adobe Creative Suite](https://img.shields.io/badge/Adobe%20Creative%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
-### **Security & Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### **Deployment & DevOps**
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### **Security & Version Control**
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 ---
@@ -61,12 +67,14 @@ Web designer focused on creating stunning brand identities and user experiences.
 - Full-stack web applications
 - Responsive UI/UX design
 - Interactive web experiences
+- Deployment with Vercel
 
 ### **Design & Branding**
 - Brand identity creation
 - Visual design & UI design
-- Prototyping & wireframing
+- Prototyping & wireframing with Figma & Framer
 - Motion design & animations
+- Graphics with Canva
 
 ### **Security**
 - Penetration testing
@@ -76,7 +84,7 @@ Web designer focused on creating stunning brand identities and user experiences.
 
 ### **AI & Automation**
 - Machine learning models
-- AI-powered applications
+- AI-powered applications with Claude & Ollama
 - Data analysis & visualization
 - Automation workflows
 
@@ -106,8 +114,8 @@ Web designer focused on creating stunning brand identities and user experiences.
 📬 **Reach out if you want to collaborate on:**
 - Web design & brand identity projects
 - Security research & penetration testing
-- AI/ML applications
-- Full-stack development
+- AI/ML applications with Ollama & Claude
+- Full-stack development with Vercel deployment
 
 ---
 
@@ -119,4 +127,4 @@ Web designer focused on creating stunning brand identities and user experiences.
 
 ---
 
-**Last Updated:** 2026-06-20 | Made with ❤️ by Hackergut
+**Last Updated:** 2026-07-03 | Made with ❤️ by Hackergut
