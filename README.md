@@ -3,7 +3,37 @@
 ## 🔐 About Me
 I'm a security enthusiast with a passion for **ethical hacking** and cybersecurity. 
 AI fanatic exploring how machine learning can solve real-world problems.
+Web designer focused on creating stunning brand identities and user # Hey, I'm Hackergut 👋
+
+## 🔐 About Me
+I'm a security enthusiast with a passion for **ethical hacking** and cybersecurity. 
+AI fanatic exploring how machine learning can solve real-world problems.
 Web designer focused on creating stunning brand identities and user experiences.
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hackergut&theme=github&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&hide_border=true&radius=4" width="100%" alt="GitHub Contribution Graph"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hackergut&theme=github-dark&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=39d353&currStreakLabel=39d353&sideNums=ffffff&currStreakNum=ffffff&sideLabels=8b949e&dates=8b949e" width="100%" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hackergut&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=39d353" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackergut&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" width="49%" alt="Top Languages"/>
+</p>
 
 ---
 
@@ -87,26 +117,6 @@ Web designer focused on creating stunning brand identities and user experiences.
 - AI-powered applications with Claude & Ollama
 - Data analysis & visualization
 - Automation workflows
-
----
-
-## 📈 GitHub Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hackergut&theme=github-dark&hide_border=true&area=true)
-
----
-
-## 🔥 GitHub Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hackergut&theme=dark&hide_border=true)
-
----
-
-## 📊 GitHub Stats
-
-![Hackergut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hackergut&show_icons=true&theme=dark&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackergut&layout=compact&theme=dark&hide_border=true)
 
 ---
 
