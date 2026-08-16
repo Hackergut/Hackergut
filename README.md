@@ -1,14 +1,11 @@
 # Hey, I'm Hackergut 👋
 
+
 ## 🔐 About Me
 I'm a security enthusiast with a passion for **ethical hacking** and cybersecurity. 
 AI fanatic exploring how machine learning can solve real-world problems.
 Web designer focused on creating stunning brand identities and user # Hey, I'm Hackergut 👋
 
-## 🔐 About Me
-I'm a security enthusiast with a passion for **ethical hacking** and cybersecurity. 
-AI fanatic exploring how machine learning can solve real-world problems.
-Web designer focused on creating stunning brand identities and user experiences.
 
 ---
 
