@@ -90,16 +90,28 @@ Web designer focused on creating stunning brand identities and user experiences.
 
 ---
 
-## 🚀 Featured Projects
-*Check out my repositories for exciting projects in security, web design, AI, and more!*
+## 📈 GitHub Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hackergut&theme=github-dark&hide_border=true&area=true)
+
+---
+
+## 🔥 GitHub Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hackergut&theme=dark&hide_border=true)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Hackergut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hackergut&show_icons=true&theme=dark&count_private=true)
+![Hackergut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hackergut&show_icons=true&theme=dark&count_private=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackergut&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackergut&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 🚀 Featured Projects
+*Check out my repositories for exciting projects in security, web design, AI, and more!*
 
 ---
 
@@ -127,4 +139,4 @@ Web designer focused on creating stunning brand identities and user experiences.
 
 ---
 
-**Last Updated:** 2026-07-03 | Made with ❤️ by Hackergut
+**Last Updated:** 2026-08-16 | Made with ❤️ by Hackergut
