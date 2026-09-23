@@ -31,15 +31,17 @@ I enjoy turning complex ideas into simple, reliable, and beautiful solutions thr
 
 ## Contribution activity
 
-<p align="center">
-  <a href="https://github.com/Hackergut">
-    <img
-      src="https://ghchart.rshah.org/39d353/Hackergut"
-      width="100%"
-      alt="Hackergut GitHub contribution activity"
-    >
-  </a>
-</p>
+<div style="background-color: #0d1117; padding: 20px; border-radius: 8px;">
+  <p align="center">
+    <a href="https://github.com/Hackergut">
+      <img
+        src="https://ghchart.rshah.org/39d353/Hackergut"
+        width="100%"
+        alt="Hackergut GitHub contribution activity"
+      >
+    </a>
+  </p>
+</div>
 
 ---
 
