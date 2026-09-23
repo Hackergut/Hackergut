@@ -6,7 +6,24 @@ I enjoy turning complex ideas into simple, reliable, and beautiful solutions thr
 
 <p align="center">
   <a href="https://github.com/Hackergut">
-    <img src="https://komarev.com/ghpvc/?username=Hackergut&style=for-the-badge&color=39d353&label=PROFILE+VIEWS" alt="Profile views">
+    <img
+      src="https://komarev.com/ghpvc/?username=Hackergut&style=for-the-badge&color=39d353&label=PROFILE+VIEWS"
+      alt="Profile views"
+    >
+  </a>
+</p>
+
+---
+
+## 🔥 GitHub Streak Stats
+
+<p align="center">
+  <a href="https://github.com/Hackergut">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Hackergut&theme=github-dark&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=39d353&currStreakLabel=39d353&sideNums=ffffff&currStreakNum=ffffff&sideLabels=8b949e&dates=8b949e"
+      width="100%"
+      alt="Hackergut GitHub streak statistics"
+    >
   </a>
 </p>
 
@@ -16,7 +33,11 @@ I enjoy turning complex ideas into simple, reliable, and beautiful solutions thr
 
 <p align="center">
   <a href="https://github.com/Hackergut">
-    <img src="https://ghchart.rshah.org/7ee787/Hackergut" width="100%" alt="Hackergut GitHub contribution activity">
+    <img
+      src="https://ghchart.rshah.org/39d353/Hackergut"
+      width="100%"
+      alt="Hackergut GitHub contribution activity"
+    >
   </a>
 </p>
 
@@ -37,20 +58,18 @@ I enjoy turning complex ideas into simple, reliable, and beautiful solutions thr
 
 <p align="center">
   <a href="https://github.com/Hackergut">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hackergut&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=39d353" width="49%" alt="Hackergut GitHub statistics">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Hackergut&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=39d353"
+      width="49%"
+      alt="Hackergut GitHub statistics"
+    >
   </a>
   <a href="https://github.com/Hackergut">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackergut&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" width="49%" alt="Hackergut top programming languages">
-  </a>
-</p>
-
----
-
-## 🔥 GitHub Streak Stats
-
-<p align="center">
-  <a href="https://github.com/Hackergut">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hackergut&theme=github-dark&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=39d353&currStreakLabel=39d353&sideNums=ffffff&currStreakNum=ffffff&sideLabels=8b949e&dates=8b949e" width="100%" alt="Hackergut GitHub streak statistics">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackergut&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e"
+      width="49%"
+      alt="Hackergut top programming languages"
+    >
   </a>
 </p>
 
@@ -151,7 +170,7 @@ I enjoy working on software that is:
 - Ready to scale as requirements evolve
 - Documented and friendly for other developers
 
-### Architecture interests
+### Architecture Interests
 
 - Component-based architecture
 - Design systems and reusable UI
@@ -217,7 +236,10 @@ I combine design and engineering to create complete digital products.
 
 <p align="center">
   <a href="https://github.com/Hackergut?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20my%20repositories-39d353?style=for-the-badge&logo=github&logoColor=white" alt="View Hackergut repositories">
+    <img
+      src="https://img.shields.io/badge/View%20my%20repositories-39d353?style=for-the-badge&logo=github&logoColor=white"
+      alt="View Hackergut repositories"
+    >
   </a>
 </p>
 
