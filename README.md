@@ -20,7 +20,7 @@ I enjoy turning complex ideas into simple, reliable, and beautiful solutions thr
 <p align="center">
   <a href="https://github.com/Hackergut">
     <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Hackergut&theme=github-dark&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=39d353&currStreakLabel=39d353&sideNums=ffffff&currStreakNum=ffffff&sideLabels=8b949e&dates=8b949e"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Hackergut&theme=github-dark&hide_border=true&background=090909&stroke=39d353&ring=39d353&fire=39d353&currStreakLabel=39d353&sideNums=ffffff&currStreakNum=ffffff&sideLabels=8b949e&dates=8b949e"
       width="100%"
       alt="Hackergut GitHub streak statistics"
     >
@@ -31,7 +31,7 @@ I enjoy turning complex ideas into simple, reliable, and beautiful solutions thr
 
 ## Contribution activity
 
-<div style="background-color: #0d1117; padding: 20px; border-radius: 8px;">
+<div style="background-color: #090909; padding: 20px; border-radius: 8px;">
   <p align="center">
     <a href="https://github.com/Hackergut">
       <img
@@ -61,14 +61,14 @@ I enjoy turning complex ideas into simple, reliable, and beautiful solutions thr
 <p align="center">
   <a href="https://github.com/Hackergut">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=Hackergut&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=39d353"
+      src="https://github-readme-stats.vercel.app/api?username=Hackergut&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=090909&title_color=ffffff&text_color=8b949e&icon_color=39d353"
       width="49%"
       alt="Hackergut GitHub statistics"
     >
   </a>
   <a href="https://github.com/Hackergut">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackergut&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackergut&layout=compact&theme=dark&hide_border=true&bg_color=090909&title_color=ffffff&text_color=8b949e"
       width="49%"
       alt="Hackergut top programming languages"
     >
@@ -274,7 +274,7 @@ I'm open to:
 </p>
 
 <p align="center">
-  <strong>Last Updated: 2026-09-23</strong>
+  <strong>Last Updated: 2026-10-06</strong>
 </p>
 
 <p align="center">
